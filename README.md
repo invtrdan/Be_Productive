@@ -1,6 +1,6 @@
 # Be_Productive
 
-# This is a website with features that aim to boost productivity.
+# This is a website with features that aims to boost productivity.
 # Features:
 # - Motivational Quotes
 # - Planner, Calendar
